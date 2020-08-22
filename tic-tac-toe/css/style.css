@@ -1,0 +1,39 @@
+body {
+    background-color: #181818;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+table {
+    border-color: white;
+    border-width: 2px;
+}
+
+td {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    color: white;
+    font-weight: bolder;
+    cursor: default;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+#msg {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 2em;
+}
